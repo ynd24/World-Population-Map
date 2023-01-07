@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Asia",
+    "Pop": 4715932231,
+    "WorldPop": "0.5929",
+    "GrowthRate": "0.0080",
+    "PopDensity": "146.7394",
+    "LAT": 34.0479,
+    "LON": 100.6197
+  },
+  {
+    "Name": "Africa",
+    "Pop": 1406722629,
+    "WorldPop": "0.1769",
+    "GrowthRate": "0.0242",
+    "PopDensity": "46.3989"
+  },
+  {
+    "Name": "Europe",
+    "Pop": 748590761,
+    "WorldPop": "0.0941",
+    "GrowthRate": "-0.0003",
+    "PopDensity": "32.5151"
+  },
+  {
+    "Name": "North America",
+    "Pop": 601048052,
+    "WorldPop": "0.0756",
+    "GrowthRate": "0.0075",
+    "PopDensity": "24.7914"
+  },
+  {
+    "Name": "South America",
+    "Pop": 437694443,
+    "WorldPop": "0.0550",
+    "GrowthRate": "0.0079",
+    "PopDensity": "24.5382"
+  },
+  {
+    "Name": "Oceania",
+    "Pop": 43755226,
+    "WorldPop": "0.0055",
+    "GrowthRate": "0.0124",
+    "PopDensity": "5.0933"
+  }
+]
